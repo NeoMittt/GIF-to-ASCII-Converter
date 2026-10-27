@@ -1,0 +1,1 @@
+# GIF-to-ASCII-Converter
